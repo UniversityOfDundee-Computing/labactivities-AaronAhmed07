@@ -1,0 +1,35 @@
+/* colours to use 
+
+#F9DBBD
+#FCA17D
+#DA627D
+#9A348E
+#17094F
+*/
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;1,700&family=Raleway:wght@100;800&display=swap');
+
+
+
+
+body{
+    background-color: rgb(125, 231, 247);
+}
+
+h1, h2, h3{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    color: #FCA17D;
+}
+
+p, li{
+    font-family: 'EB Garamond', serif;
+    font-weight: 400;
+    color: #17094F;
+} 
+
+.highlight-colour{
+    color: #DA627D;
+}

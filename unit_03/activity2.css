@@ -1,0 +1,74 @@
+
+/*
+colours
+
+#93B7BE
+#F1FFFA - Light
+#D5C7BC
+#78586F
+#DB5461
+#000500 - Dark
+#CA3C25
+
+
+*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=EB+Garamond:ital,wght@0,400;1,700&family=Open+Sans:wght@300;500&display=swap');
+
+
+body{
+
+    background-color: #000500;
+}
+
+.menu{
+
+    background-color: #F1FFFA;
+    max-width: 500px;
+    margin: auto;
+    padding: 40px;
+
+}
+
+h1, h2{
+    font-family: 'Archivo Black', sans-serif;
+    color: #CA3C25;
+    border-bottom-color:#003cf1;
+    border-bottom-width: 5px;
+    border-bottom-style: dashed;
+    text-align: center;
+    
+}
+
+h1{
+
+   margin-bottom: 50px;
+}
+   
+.menuItems{
+
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    color: #3e0243;
+    margin-bottom: 0;
+    text-align: center;
+
+   }
+
+   .itemprice{
+
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #ba0286;
+    margin-top: 0;
+    text-align: center;
+
+   }
+
+   .foodIcon {
+
+    color: #00a318;
+    font-size: 150%;
+    padding: 0 10px; 
+   }
